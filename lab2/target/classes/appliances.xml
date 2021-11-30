@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17" class="java.beans.XMLDecoder">
+    <object class="by.tc.task01.entity.Oven">
+        <void property="capacity">
+            <int>120</int>
+        </void>
+        <void property="depth">
+            <int>60</int>
+        </void>
+        <void property="height">
+            <int>187</int>
+        </void>
+        <void property="name">
+            <string>Liebherr 12MND1Z</string>
+        </void>
+        <void property="powerConsumption">
+            <int>4200</int>
+        </void>
+        <void property="price">
+            <double>4995.0</double>
+        </void>
+        <void property="weight">
+            <double>60</double>
+        </void>
+        <void property="width">
+            <int>140</int>
+        </void>
+    </object>
+    <object class="by.tc.task01.entity.Oven">
+        <void property="capacity">
+            <int>200</int>
+        </void>
+        <void property="depth">
+            <int>12</int>
+        </void>
+        <void property="height">
+            <int>197</int>
+        </void>
+        <void property="name">
+            <string>Samsung HBF1N0X</string>
+        </void>
+        <void property="powerConsumption">
+            <int>100</int>
+        </void>
+        <void property="price">
+            <double>2999.0</double>
+        </void>
+        <void property="weight">
+            <double>15.5</double>
+        </void>
+        <void property="width">
+            <int>12</int>
+        </void>
+    </object>
+    <object class="by.tc.task01.entity.Refrigerator">
+        <void property="freezerCapacity">
+            <int>175</int>
+        </void>
+        <void property="height">
+            <int>115</int>
+        </void>
+        <void property="name">
+            <string>LG Alpha Z0N891</string>
+        </void>
+        <void property="overallCapacity">
+            <int>560</int>
+        </void>
+        <void property="powerConsumption">
+            <int>198</int>
+        </void>
+        <void property="price">
+            <double>987.0</double>
+        </void>
+        <void property="weight">
+            <double>60.5</double>
+        </void>
+        <void property="width">
+            <int>12</int>
+        </void>
+    </object>
+    <object class="by.tc.task01.entity.Refrigerator">
+        <void property="freezerCapacity">
+            <int>108</int>
+        </void>
+        <void property="height">
+            <int>110</int>
+        </void>
+        <void property="name">
+            <string>Bosch HGF91YZ</string>
+        </void>
+        <void property="overallCapacity">
+            <int>62</int>
+        </void>
+        <void property="powerConsumption">
+            <int>12</int>
+        </void>
+        <void property="price">
+            <double>1899.0</double>
+        </void>
+        <void property="weight">
+            <double>60.0</double>
+        </void>
+        <void property="width">
+            <int>15</int>
+        </void>
+    </object>
+    <object class="by.tc.task01.entity.Kettle">
+        <void property="color">
+            <object class="java.lang.Enum" method="valueOf">
+                <class>by.tc.task01.entity.characteristics.Color</class>
+                <string>Blue</string>
+            </object>
+        </void>
+        <void property="name">
+            <string>Bosch MK891N</string>
+        </void>
+        <void property="powerConsumption">
+            <int>169</int>
+        </void>
+        <void property="price">
+            <double>1119.0</double>
+        </void>
+        <void property="waterCapacity">
+            <double>4.0</double>
+        </void>
+    </object>
+    <object class="by.tc.task01.entity.Kettle">
+        <void property="color">
+            <object class="java.lang.Enum" method="valueOf">
+                <class>by.tc.task01.entity.characteristics.Color</class>
+                <string>White</string>
+            </object>
+        </void>
+        <void property="name">
+            <string>Samsung Nano 893HZ3E</string>
+        </void>
+        <void property="powerConsumption">
+            <int>210</int>
+        </void>
+        <void property="price">
+            <double>999.0</double>
+        </void>
+        <void property="waterCapacity">
+            <double>1.89</double>
+        </void>
+    </object>
+    <object class="by.tc.task01.entity.TabletPC">
+        <void property="batteryCapacity">
+            <int>14900</int>
+        </void>
+        <void property="color">
+            <object class="java.lang.Enum" method="valueOf">
+                <class>by.tc.task01.entity.characteristics.Color</class>
+                <string>Grey</string>
+            </object>
+        </void>
+        <void property="displayInches">
+            <double>7.5</double>
+        </void>
+        <void property="flashMemoryCapacity">
+            <int>15</int>
+        </void>
+        <void property="memoryRom">
+            <int>16</int>
+        </void>
+        <void property="name">
+            <string>ASUS VivoBook 12</string>
+        </void>
+        <void property="price">
+            <double>1459.0</double>
+        </void>
+    </object>
+    <object class="by.tc.task01.entity.TabletPC">
+        <void property="batteryCapacity">
+            <int>9520</int>
+        </void>
+        <void property="color">
+            <object class="java.lang.Enum" method="valueOf">
+                <class>by.tc.task01.entity.characteristics.Color</class>
+                <string>Blue</string>
+            </object>
+        </void>
+        <void property="displayInches">
+            <double>12.0</double>
+        </void>
+        <void property="flashMemoryCapacity">
+            <int>16</int>
+        </void>
+        <void property="memoryRom">
+            <int>64</int>
+        </void>
+        <void property="name">
+            <string>Acer 781CX</string>
+        </void>
+        <void property="price">
+            <double>1000.0</double>
+        </void>
+    </object>
+</java>
